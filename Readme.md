@@ -12,7 +12,7 @@
 
 -   👯 I’m looking to collaborate on **Open Source**
 
--   💬 Ask me about **C, HTML, CSS, Python**
+-   💬 Ask me about **C, HTML, CSS,Javascript, Python**
 
 -   📫 How to reach me [ersakshithakur12@gmail.com](mailto:ersakshithakur12@gmail.com)
 
